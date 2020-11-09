@@ -2,7 +2,7 @@
     <footer class="footer">
         <div class="footer__inner">
             <div class="footer__text">
-                <h2>Успей купить</h2>
+                <h2>Успей  купить</h2>
                 <p>Подпишись и успей словить все акции</p>
             </div>
 
